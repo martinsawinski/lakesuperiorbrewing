@@ -1,4 +1,4 @@
 # lakesuperiorbrewing
 
-Bladity blady blah
+
 
